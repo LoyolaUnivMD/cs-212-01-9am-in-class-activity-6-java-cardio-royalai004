@@ -31,7 +31,7 @@ class Mortgage {
 
 
 }
-public class MORTGAGE {
+public class Activity2 {
     public static void main(String[] args) {
         Mortgage mortgageCalc = new Mortgage();
         mortgageCalc.get_principal();
